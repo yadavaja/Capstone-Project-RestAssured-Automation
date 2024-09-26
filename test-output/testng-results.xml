@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-24T21:50:38 BST" name="Rest Assured Automation" finished-at="2024-09-24T21:50:43 BST" duration-ms="5251">
+    <groups>
+    </groups>
+    <test started-at="2024-09-24T21:50:38 BST" name="RestAssured Test" finished-at="2024-09-24T21:50:43 BST" duration-ms="5251">
+      <class name="ApiTests">
+        <test-method signature="RestAssured_APITest()[pri:1, instance:ApiTests@4dbb42b7]" started-at="2024-09-24T21:50:38 BST" name="RestAssured_APITest" finished-at="2024-09-24T21:50:43 BST" duration-ms="5189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAssured_APITest -->
+      </class> <!-- ApiTests -->
+    </test> <!-- RestAssured Test -->
+  </suite> <!-- Rest Assured Automation -->
+</testng-results>
